@@ -17,7 +17,14 @@ Git Command Lists
 5. git push origin <branch-name>
 
 
+## Add Origin
 
+1. git init
+2. git remote add origin <link>
+3. git remote -v
+4. git branch
+5. git branch -M main
+6. git push origin main
 
 
 
