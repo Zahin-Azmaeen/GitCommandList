@@ -29,13 +29,12 @@ Git Command Lists
 
 
 ## PUSH
-1. echo "# php-batch-14" >> README.md
-2. git init
-3. git add README.md
-4. git commit -m "first commit"
-5. git branch -M main
-6. git remote add origin https://github.com/Zahin-Azmaeen/php-batch-14.git
-7. git push -u origin main
+1. git init
+2. git add .
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/Zahin-Azmaeen/php-batch-14.git
+6. git push -u origin main
 
 
 …or push an existing repository from the command line
