@@ -39,9 +39,9 @@ Git Command Lists
 
 
 …or push an existing repository from the command line
-8. git remote add origin https://github.com/Zahin-Azmaeen/php-batch-14.git
-9. git branch -M main
-10. git push -u origin main
+1. git remote add origin https://github.com/Zahin-Azmaeen/php-batch-14.git
+2. git branch -M main
+3. git push -u origin main
 
 
 
